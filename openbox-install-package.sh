@@ -8,6 +8,8 @@ git clone https://github.com/OpenBoxProject/obsi.git
 cd $INSTALL_DIR/obsi
 sudo ./install.sh
 
+cd $INSTALL_DIR
+
 # Clone and install Moonlight
 git clone https://github.com/OpenBoxProject/moonlight.git
 cd $INSTALL_DIR/moonlight
