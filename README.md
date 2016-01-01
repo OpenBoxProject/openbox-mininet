@@ -5,5 +5,6 @@ To install:
 
 ```
 git clone https://github.com/OpenBoxProject/openbox-mininet.git
+cd openbox-mininet
 sudo ./install.sh
 ```
