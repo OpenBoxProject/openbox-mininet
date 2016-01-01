@@ -6,5 +6,6 @@ To install:
 ```
 cd ~    # Or any other directory where you would like the code to be placed
 wget https://raw.githubusercontent.com/OpenBoxProject/openbox-mininet/master/openbox-install-package.sh
+chmod +x openbox-install-package.sh
 sudo ./openbox-install-package.sh
 ```
