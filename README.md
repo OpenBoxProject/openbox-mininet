@@ -10,4 +10,4 @@ chmod +x openbox-install-package.sh
 sudo ./openbox-install-package.sh
 ```
 
-Note: This script may take quite a long time to complete. You may install data plane service instance (OBI) and controller (Moonlight) separately, by running the install.sh script file at their corresponding repositories under our [github repository](https://www.github.com/OpenBoxProject).
+Note: This script may take quite a long time to complete. If you would like to install data plane service instance (OBI) or controller (Moonlight) separately, run the install.sh script file at their corresponding repositories under our [github repository](https://www.github.com/OpenBoxProject). The script may malfunction if one of the steps fails. In this case, you may have to re-run the corresponding script from the point of failure, after fixing the problem that caused the failure.
